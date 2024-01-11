@@ -1,0 +1,78 @@
+
+
+body{
+  background-color: black;
+}
+
+.post{
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.post-img{
+  width: 100%;
+  object-fit: cover;
+}
+
+.html-icon{
+  margin: 0px;
+}
+
+.html-name{
+  margin: 0px;
+}
+
+.post-header{
+  background-color: whitesmoke;
+  display: flex;
+  padding: 10px;
+}
+
+.post-icons{
+  background-color: whitesmoke;
+  padding: 10px;
+  display: flex;
+}
+
+.fa-brands{
+  font-size: 50px;
+  margin-right: 7px;
+}
+
+.fa-solid {
+  margin-left: auto;
+  font-size: 50px;
+}
+
+.fa-regular {
+  font-size: 50px;
+  margin-right: 5px;
+  
+}
+
+.fa-regular:hover {
+  color: blue;
+}
+
+.fa-bookmark{
+  font-size: 50px;
+  margin-left: auto;
+  
+}
+
+.noblack, .blacked{
+  font-size: 20px;
+  display: inline;
+}
+
+.blacked{
+  font-weight: bold;
+}
+
+.post-description{
+  background-color: whitesmoke;
+  padding: 20px;
+}
+
+
